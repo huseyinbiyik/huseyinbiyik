@@ -1,8 +1,8 @@
 
 ### Hi there, I'm Huseyin! 👋
-Hi, there. My name is Huseyin, a Full Stack Web Development Student 🐣 from Turkey. <br>
+Hi, there. My name is Huseyin, a Full Stack Web Developer from Turkey. <br>
 
-**Language**: HTML, CSS, JavaScript  <br>
+**Language/Library**: HTML, CSS, JavaScript, React, Redux  <br>
 
 **Tech**: Bootstrap, SASS/SCSS, Git, GitFlow, Github, Jest, Webpack 
 
