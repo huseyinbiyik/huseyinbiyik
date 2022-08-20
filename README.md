@@ -2,7 +2,7 @@
 ### Hi there, I'm Huseyin! 👋
 Hi, there. My name is Huseyin, a Full Stack Web Developer from Turkey. <br>
 
-**Language/Library**: HTML, CSS, JavaScript, React, Redux  <br>
-
-**Tech**: Bootstrap, SASS/SCSS, Git, GitFlow, Github, Jest, Webpack 
-
+**Front-End**: JavaScript, React, Redux, HTML5, CSS3 <br>
+**Back-End**: Ruby, Rails, MySQL <br>
+**Tools & Methods**: Git, Github, Heroku, Netlify, RSpec, TDD, Chrome Dev Tools <br>
+**Professional**: Remote Pair-Programming, Teamwork
